@@ -10,4 +10,4 @@ Portfolio of my Data Science projects for Self-learning
   
  * Machine Learning
  
-   [Diabetes Prediction](https://github.com/parthgandhi487/Data-Science-Portfolio/tree/master/Diabetes) to predict if people has diabetes .  Built in Python. Implemented using various Machine Learning Models
+   [Diabetes Prediction](https://github.com/parthgandhi487/Data-Science-Portfolio/tree/master/Diabetes) to predict the people of different    ages has diabetes.Built in Python. Implemented using various Machine Learning Models
